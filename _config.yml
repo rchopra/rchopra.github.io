@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: COSC 111
+email: rishi.chopra@morgan.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Course website for COSC 111 - Intro to Computer Science I at Morgan State University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -33,6 +31,31 @@ github_username:  jekyll
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+color_scheme: dark
+
+
+callouts_level: quiet
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
