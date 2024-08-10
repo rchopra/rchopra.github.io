@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Lecture 02 - Computational Thinking
-permalink: /lec02/
+parent: Lecture Notes
+nav_order: 2
 ---
 # Computational Thinking
 
