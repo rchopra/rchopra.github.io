@@ -47,7 +47,7 @@ this problem.
 
 ### Decomposition
 
-This is kind of complicated with so many coins, but let's break it down. What
+This is kind of complicated with so many coins, so let's break it down. What
 if we only had two coins to start with? Then things get a lot simpler. We just
 weigh each one and whichever is heavier. So the full problem can be broken down
 into doing four 1-to-1 weighings.
