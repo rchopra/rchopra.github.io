@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture 02 - Computational Thinking
+title: Computational Thinking
 parent: Lecture Notes
 nav_order: 2
 ---
