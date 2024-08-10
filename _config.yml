@@ -32,9 +32,6 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
-color_scheme: dark
-
-
 callouts_level: quiet
 callouts:
   highlight:
@@ -56,6 +53,8 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+
+favicon_ico: "/assets/images/favicon.ico"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
