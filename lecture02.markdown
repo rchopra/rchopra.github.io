@@ -9,7 +9,7 @@ permalink: /lec02/
 1. Decomposition
 2. Pattern Recognition
 3. Abstraction
-4. Algorithmic Design
+4. Algorithm Design
 
 ### Decomposition
 Breaking down a big problem into smaller, easier problems.
@@ -42,7 +42,8 @@ Say we have eight identical looking coins, but one is a fake and weighs one
 gram more than the others.  Given that we have a balance scale, how can we
 identify the fake in as few measurements as possible?
 
-Let's walk through each of the parts of Computational Thinking to help us solve.
+Let's walk through each of the parts of Computational Thinking to help us solve
+this problem.
 
 ### Decomposition
 
@@ -50,22 +51,30 @@ This is kind of complicated with so many coins, but let's break it down. What
 if we only had two coins to start with? Then things get a lot simpler. We just
 weigh each one and whichever is heavier. So the full problem can be broken down
 into doing four 1-to-1 weighings.
-*A lot of problem solving starts with this sort of "wishful thinking". Don't sleep on this technique, it's really powerful.*
+
+{: .note }
+A lot of problem solving starts with this sort of "wishful thinking". Don't
+sleep on this technique, it's really powerful.
 
 ### Pattern Recognition
 
-So we know at most we'd have to take four measurements. Can we do better?[1] We
+So we know at most we'd have to take four measurements. Can we do better?[^1] We
 can see a pattern in our sub-problems, that the four 1-to-1 weighings are a bit
-redundant. We could combine those to 2v2 or 4v4[2]. The heavier group always has
-the fake.
+redundant. We could combine those to 2v2 or 4v4[^2]. The heavier group always has
+the fake. By recognizing this pattern we've improved to three weighings.
+
+[^1]: You should always be asking this.
+[^2]: Repeatedly cutting problems in half to make them easier is one of the most
+    important ideas in computer science. You'll learn all about this COSC 220.
 
 ### Abstraction
 
-Does our solution work with more coins? Or what if weight wasn't different, but
-it's diameter? Or do the items need to be coins at all? They could be diamonds,
-or counterfeit currency. Our solution will still work if we abstract it to say
-we have n identical things, 1 fake, and some measurement device to tell them
-apart. Now we can solve all sorts of problems.
+Does our solution work with more coins? Or what if the coins' weight wasn't
+different, but their diameter? Do the items need to be coins at all? They could
+be diamonds, or counterfeit currency. Our method will still work if we
+*abstract* it to situations where we have n identical things with 1 fake, and
+some measurement device to tell them apart. Now we can solve all sorts of
+problems.
 
 ### Algorithm design
 
@@ -74,13 +83,11 @@ write out the precise steps so that a computer (or weighing robot in this case)
 can actually solve the problem. The act of writing the computer code is called
 **implementation**.
 
-1. Input: n coins, where n is even[3].
+1. Input: n coins, where n is even[^3].
 2. Split the group of coins in half.
 3. Put each group on the scale.
 4. Keep the group that was heavier, setting aside the lighter group.
 5. Repeate steps 1-3 with the heavy group coins until there is one coin left.
 6. Output: the remaining coin is the fake.
 
-1: You should always be asking this.
-2: Repeatedly cutting problems in half to make them easier is one of the most important ideas in computer science. You'll learn all about this in your [Algorithms course]().
-3: How does the algorithm change if n is odd?
+[^3]: How does the algorithm change if n is odd?
