@@ -32,6 +32,8 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
+color_scheme: morgan
+
 callouts_level: quiet
 callouts:
   highlight:
