@@ -24,6 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Course website for COSC 111 - Intro to Computer Science I at Morgan State University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cosc111.org" # the base hostname & protocol for your site, e.g. http://example.com
+aux_links:
+  Edstem:
+    - 'https://edstem.org/us/courses/60560/lessons/'
+  Anonymous Feedback:
+    - 'https://forms.gle/6BkUQQczLJMSJ8rB7'
 
 # Build settings
 theme: just-the-docs
