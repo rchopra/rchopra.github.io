@@ -3,6 +3,19 @@ layout: page
 title: Syllabus
 nav_order: 3
 permalink: /syllabus/
+description: >-
+  Syllabus for COSC 111.
+---
+
+# Syllabus
+{:.no_toc}
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ---
 
 ## Course Info
@@ -11,6 +24,10 @@ Welcome to COSC 111! This is the first class in the computer science sequence.
 As such, we'll be focusing on foundational knowledge as well as developing
 skills that will help you succeed in future courses. This course doesn’t
 require any prior programming knowledge.
+
+{% for schedule in site.schedules %}
+{{ schedule }}
+{% endfor %}
 
 ### Why I'm here
 
@@ -23,6 +40,18 @@ interested in pursuing. I find that hands-on experience is the most engaging
 way to learn CS so we will spend quite a bit of time actively writing code.
 
 ### Course goals
+
+As an introductory course, COSC 111 is intended to demonstrate the
+effectiveness of problem-solving as a necessary component for programming and
+design. As such, students can expect to learn the steps required to
+successfully solve a problem, as well as appreciate the effectiveness of a
+high-level language as a tool in the implementation of a solution. In this
+course, students will learn to program in the Python programming language. At
+the end of this course, students will have strong knowledge of algorithm
+development as well as some familiarity with basic programming terminology.
+The intent of this course is to develop problem-solving techniques in
+students so that they can successfully develop solutions for all problems in
+CS and STEM applications.
 
 ### Learning outcomes
 

@@ -9,11 +9,10 @@ permalink: /schedule/
 Check back here after each class to find links to lecture notes, slides, labs,
 and homework assignments.
 
-test
-{: .label .label-green }
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
-{: .warning }
-Course schedule and topics are subject to change.
 
 | Week | Dates           | Unit                   | Topics                                                                                                            | Lab                                    | Logistics    |
 |:----:|-----------------|------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------------|
