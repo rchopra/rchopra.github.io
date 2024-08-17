@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+nav_order: 3
 permalink: /syllabus/
 ---
 
