@@ -1,22 +1,24 @@
 ---
-title: Week 1
+title: "Week 1: Intro"
 ---
 
 
-Aug 19
-: **Lecture**{: .label .label-yellow } Course Intro 
-  : [[slides](https://edstem.org/us/courses/60560/lessons/113959){:target="_blank"}\]
-: **HW 1**{: .label .label-red } Survey & Office Hours
+**Lec 01**{: .label .label-blue }
+: [Course Intro](https://edstem.org/us/courses/60560/lessons/113959){:target="_blank"}
+  : slides posted after class
+
+**HW 1**{: .label .label-red }
+: Survey & Office Hours
   : Due Aug 29 11:59 pm ET
-  
-Aug 20
-: **Lecture**{: .label .label-yellow }What is Computer Science?
-  : [[slides](https://edstem.org/us/courses/60560/lessons/113959){:target="_blank"}\]
 
-Aug 21
-: **Lecture**{: .label .label-yellow }Intro to EdStem
-  : [[slides](https://edstem.org/us/courses/60560/lessons/113959){:target="_blank"}\]
+**Lec 02**{: .label .label-blue }
+: What is Computer Science?
+  : slides posted after class
 
-Aug 23
-: **Lab**{: .label .label-purple }GIR Pre-Assessment
-  : [[slides](https://edstem.org/us/courses/60560/lessons/113959){:target="_blank"}\]
+**Lec 03**{: .label .label-blue }
+: Intro to EdStem
+  : slides posted after class
+
+**Lab 01**{: .label .label-yellow }
+: GIR Pre-Assessment
+  : slides posted after class
