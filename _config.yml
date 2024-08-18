@@ -20,13 +20,15 @@
 
 title: COSC 111
 email: rishi.chopra@morgan.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Course website for COSC 111 - Intro to Computer Science I at Morgan State University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cosc111.org" # the base hostname & protocol for your site, e.g. http://example.com
+tagline: "COSC 111: Intro to Computer Science I"
+description: Fall 2024
 aux_links:
   Edstem:
     - 'https://edstem.org/us/courses/60560/lessons/'
+  Canvas:
+    - 'https://morganstate.instructure.com/'
   Anonymous Feedback:
     - 'https://forms.gle/6BkUQQczLJMSJ8rB7'
 

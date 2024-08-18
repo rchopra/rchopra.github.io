@@ -20,27 +20,6 @@ description: >-
 
 ## Course Info
 
-Welcome to COSC 111! This is the first class in the computer science sequence.
-As such, we'll be focusing on foundational knowledge as well as developing
-skills that will help you succeed in future courses. This course doesn’t
-require any prior programming knowledge.
-
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
-
-### Why I'm here
-
-This course is part of a program called Google In Residence (GIR) where I, a
-software engineer at Google, take a semester out of my regular work to teach
-here at Morgan. I can directly trace my current career to the opportunities I
-had to explore computer science (CS) as a student. I strive to offer the same
-opportunities to you so that you can determine if this is a field that you are
-interested in pursuing. I find that hands-on experience is the most engaging
-way to learn CS so we will spend quite a bit of time actively writing code.
-
-### Course goals
-
 As an introductory course, COSC 111 is intended to demonstrate the
 effectiveness of problem-solving as a necessary component for programming and
 design. As such, students can expect to learn the steps required to
@@ -49,40 +28,32 @@ high-level language as a tool in the implementation of a solution. In this
 course, students will learn to program in the Python programming language. At
 the end of this course, students will have strong knowledge of algorithm
 development as well as some familiarity with basic programming terminology.
-The intent of this course is to develop problem-solving techniques in
-students so that they can successfully develop solutions for all problems in
-CS and STEM applications.
+
+This is a 4 credit course with no prerequisites. We will have both lectures and
+homework/projects every week. You should expect to spend **several hours each
+week** working on homework and projects outside of class.
 
 ### Learning outcomes
 
 At the end of the course, the student should be able to:
 * Identify the pillars of computational thinking (CT) approaches
-* Develop a standard algorithm, and illustrate it in pseudocode and flowchart
-  to solve any given problem
-* Explain, differentiate and apply the concepts of semantics, syntax, and
+* Develop a standard algorithm, and illustrate it in pseudocode to solve any
+  given problem
+* Explain, differentiate, and apply the concepts of semantics, syntax, and
   abstraction in programming
-* Practice the programming constructs: sequence, selection, and iteration as
+* Practice the programming constructs sequence, selection, and iteration as
   part of programming assignments
-* Identify and fix coding errors in a program
+* Identify and fix errors in a program
 * Use built-in functions and import modules when a program requires
 * Design and write their own functions and modules
 * Apply basic data structures (list, tuple, and dictionary) to solve problems
-
-### Technical details
-
-This is a 4 credit course with no prerequisites. We will have both lectures and
-homework/projects every week. You should expect to spend **several hours each
-week** working on homework and projects outside of class.
 
 ### Course materials
 
 For all labs, homeworks, and projects, we will be submitting code assignments
 using [EdStem](http://edstem.org) (instructions in the first lab/homework that
 uses it). We’ll also use [Slido](https://slido.com) for in-class interactions
-and Q&A.
-
-We’ll be using [Canvas](https://morganstate.instructure.com/) for grades and as
-a hub for attached files, slides, video recordings, etc.
+and Q&A. We’ll be using [Canvas](https://morganstate.instructure.com/) for grades.
 
 There’s no required textbook for this course, but if you’d like an additional
 resource, there’s a free online textbook called [Foundations of Python
@@ -98,59 +69,57 @@ successful learning environment.
 
 Each class will have a lot of interaction with me, with the TAs, with the other
 students, and with the computer. In order to get the most out of it, you need
-to be present for classes with a computer. If for any reason you cannot attend
+to be present for **classes with a computer**. If for any reason you cannot attend
 class, please let me know as soon as possible. Absences will be handled on a
 case by case basis; please note that attendance is part of your grade.
 
-Everyone will check in each day on Slido. You can open this on your phone or on
-your computer.
+Everyone will check in each day on [Slido](https://slido.com). You can open
+this on your phone or on your computer.
 
 ### Academic Honesty
 
-Collaborating is a key part of computer science. No one person could write all
-of the code that it takes to run most things that you use every day.
-Recognizing who did the work is equally important. People have worked hard to
-create this content and it is important to honor their time and effort by only
-using the content with proper licensing or attribution. Additionally, I want to
-make sure that you understand what's going on in the class.
+You are encouraged to get help from me, the TAs, the Internet, but you **may
+not copy code directly from somewhere else**. Each student must submit their
+homework, projects, and labs independently and elaborate on who they
+collaborated with and how. You may get general help from other students, but
+you may not discuss exact code or specific solutions. Exams and quizzes must
+be done independently.
 
-For labs, you are encouraged to get help from me, the TAs, the Internet, or
-other students, but you may not divide-and-conquer or copy code directly from
-somewhere else. Each student must submit their labs independently and elaborate
-on who they collaborated with and how.
+The course staff will use plagiarism detection tools when grading assignments.
+The first time an assignment is found to be plagiarized, the assignment grade
+will be zero-ed out for **all students** with matching code.
 
-For projects and homework assignments, you are encouraged to get help from me,
-the TAs, or the Internet, but you may not copy any code directly from somewhere
-else. You may get general help from other students, but you may not discuss
-exact code or specific solutions.
+{: .warning }
+Further incidents will be dealt with on a case-by-case basis, with disciplinary
+actions up to and including a grade of “F” for the course and a letter of
+fact in the student’s record.
 
-Exams and quizzes must be done independently. Failure to follow this policy is
-against the rules of the University and is subject to disciplinary actions, up
-to and including a grade of “F” for the course and a letter of fact in the
-student’s record.
+If you are tempted to copy code from anywhere, please reach out to me first.
+We'll work something out! Also remember we provide many ways to [get help](#ways-to-get-help).
 
 ### Technology
 
 #### In Class
 
-We will be holding class on campus in the classroom. Throughout the course, we
-will often be writing code in class, so it is important that you have a
-computer accessible during class.
+We will be holding class on campus in the classroom and on Zoom for the hybrid
+section. Throughout the course, we will often be writing code in class, so it
+is important that you have a computer accessible during class. You'll also
+need a computer for the weekly quizzes.
 
 Please do your best to refrain from using your computer or cell phone for
-non-class-related purposes during class. The classes will be much more
-enjoyable and productive for everyone involved if we are all fully engaged. We
-have a lot of material to get through and only one semester to cover it all, so
-let’s make the most of that precious time.
+non-class purposes during class. The classes will be much more enjoyable and
+productive for everyone if we are all fully engaged. We have a lot of
+material to get through and only one semester to cover it all, so let’s make
+the most of that precious time.
 
 #### Out of Class
 
 You will need access to a web browser (e.g. Chrome, Firefox, Safari, etc.) -
 preferably on a computer - and a high-speed internet connection.
 
-Please check your @morgan.edu email and Canvas daily. I will share materials
-and make course announcements through these methods. Assignments will be
-assigned and submitted through edstem. We will set up an account with your
+Please check your @morgan.edu email and the course website daily. I will share materials
+and make course announcements through these channels. Assignments will be
+assigned and submitted through EdStem. We will set up an account with your
 @morgan.edu email address in one of the first labs of the class that you will
 use for the rest of the semester.
 
@@ -180,49 +149,31 @@ attention, whether it's asking a question or answering one.
 * Ask the TAs in class
 * Come to office hours
 * Ask your peers in class
-* Send me an email: rishi.chopra@morgan.edu
+* Send me an [email](mailto:rishi.chopra@morgan.edu) -- I will always respond within 24 hours.
 * Search the Internet (NOT for the exact answer, just to get you unstuck)
 * Come to office hours
 * Look at past assignments
-* Look at the course materials in Canvas
-* Ask on edstem
-* Tutoring
+* Look at the [course materials](/schedule)
+* Ask on [EdStem](https://edstem.org/us/courses/60560/discussion/)
 * Come to office hours
 * Did I mention you should come to office hours?
 
-If for whatever reason you still feel uncomfortable asking a question, I've set
-up an anonymous [help form](https://forms.gle/6BkUQQczLJMSJ8rB7). I'll monitor
-it throughout the semester and will cover the answers in class.
+If for whatever reason you still feel uncomfortable asking a question, I've
+set up an [anonymous form](https://forms.gle/6BkUQQczLJMSJ8rB7). You can also
+provide feedback to the course staff via this form. I'll monitor it
+throughout the semester and will cover answers to any questions in class.
 
 ## Assignments and Grading
 
-Assignment due dates will be visible in Canvas and EdStem, and typically will
-be due at 11:59 p.m. ET on the day it’s due. For all assignments you must
-follow the [Academic Honesty](#) policy above.
-
-### Grading Scale
-
-| Grade       | Score     |
-|-------------|-----------|
-| A           | 90 - 100% |
-| B           | 80 - 89%  |
-| C           | 70 - 79%  |
-| D           | 60 - 69%  |
-| F           | <59%      |
-| n/a or None | 0         |
-
-### Grading Breakdown
-
-| Assignment  | Weight |
-|-------------|-------:|
-| Labs        |    10% |
-| Quizzes     |    10% |
-| Midterm     |    15% |
-| HW/Projects |    40% |
-| Final       |    15% |
-| Attendance  |    10% |
+Problem-solving and programming are skills, just like playing a sport or
+musical instrument. The only way to get better is to practice. **A lot.** To that
+end, the course is structured to give lots of small, frequent practice as
+opposed to a few high-stakes exams or projects.
 
 ### Late policy
+
+{: .highlight }
+Assignment due dates will be visible on the course website and on EdStem. All assignments will be due at 11:59 p.m. ET on the due date.
 
 A lot of the content we will cover builds upon previous content. As such, you
 need to make sure you're keeping up with the course, including turning work in
@@ -231,18 +182,18 @@ for a 15% penalty. I will keep track of these. No work will be accepted more
 than 1 week late because I want to make sure that you understand the topics
 we've covered before moving on.
 
-**Note: This means that any homework/project assignment that is turned in late
-will only be eligible for 85% credit.**
+{: .warning }
+This means that any homework/project assignment that is turned in late will only be eligible for 85% credit.
 
-### Labs, Homeworks, and Projects
+### Labs
 
 Labs are designed to help you explore a topic, so they will be graded for
 completeness not correctness. I want you to feel comfortable making mistakes in
-class.
-
-Lab assignments will be started in class, and will be due 5 days later. For
+class. Lab assignments will be started in class and due 5 days later. For
 example, if the lab is started in class on Friday, it will be due Tuesday at
 11:59 p.m. ET.
+
+### Homeworks and Projects
 
 Homeworks will focus more on practicing a specific skill or principle, and may
 consist of several small questions/problems. Projects will consist of one
@@ -257,18 +208,19 @@ accordingly you will have more time to complete these assignments.
 
 ### Quizzes
 
-There will be a short quiz at the last hour of lecture each week. These quizzes
-will cover what we talked about in class the week prior. They will be
-administered through EdStem and will include multiple-choice, T/F, and short
-answer questions (e.g. writing a block of code or predicting output).
+There will be a short (~10 minutes) quiz at the last hour of lecture each
+week. these quizzes will cover what we talked about in class the week prior.
+they will be administered through edstem and will include multiple-choice,
+true/false, and short answer questions (e.g. writing a block of code or
+predicting output).
 
 Quizzes are graded for correctness and must be done independently. Weeks that
-have exams will not have quizzes. Your lowest quiz grade will be dropped at the
-end of the semester.
+have exams will not have quizzes. Your lowest quiz grade will be dropped at
+the end of the semester.
 
 ### Exams
 
-There will be 2 exams in this class. The midterm exam will be during the week
+There will be two exams in this class. The midterm exam will be during the week
 of October 14 and cover everything that we've done through that point. The
 final exam will cover everything after the midterm up until the end of the
 course.
@@ -276,14 +228,28 @@ course.
 #### Test Corrections
 
 Test corrections will be offered for the midterm. After receiving your graded
-midterm, you may re-do the problems you got wrong for up to half the points you
-missed. You’re encouraged to get help from me or the TAs while working on test
-corrections, but you may not ask other students for help. The due date for test
-corrections will be posted on Canvas.
+midterm, you may re-do the problems you got wrong for up to half the points
+you missed. You’re encouraged to get help from me or the TAs while working on
+test corrections, but you may not ask other students for help. The due date
+for test corrections will be one week after graded midterms are returned to
+students. The course website will be updated to reflect this date.
 
-## Disclaimer
+### Grading Breakdown
 
-This syllabus is subject to change as the semester goes on. We may find that
-certain components aren't working for us, whether it's the speed of the course
-schedule or the technology policy. In that case, I will make changes that will
-be reflected here on the course website.
+Final grades for the course will be calculated based on the weights below.
+
+| Labs         | 10% |
+| Quizzes      | 10% |
+| Midterm      | 15% |
+| HW & Projects| 40% |
+| Final        | 15% |
+| Attendance   | 10% |
+
+Final grades will be convert to letter grades according to this scale.
+
+| A           | 90 - 100% |
+| B           | 80 - 89%  |
+| C           | 70 - 79%  |
+| D           | 60 - 69%  |
+| F           | <59%      |
+| n/a or None | 0         |
