@@ -2,8 +2,6 @@
 layout: page
 title: Staff
 description: All the people making COSC 111 possible this semester.
-nav_order: 4
-permalink: /staff/
 ---
 
 # Staff

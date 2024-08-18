@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule/
+title: Course Materials
 ---
 
-# Course Schedule
+# Course Materials
 
 Check back here after each class to find links to lecture slides, labs,
 and homework assignments.

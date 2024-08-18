@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Syllabus
-nav_order: 3
-permalink: /syllabus/
 description: >-
   Syllabus for COSC 111.
 ---
@@ -78,12 +76,12 @@ this on your phone or on your computer.
 
 ### Academic Honesty
 
-You are encouraged to get help from me, the TAs, the Internet, but you **may
-not copy code directly from somewhere else**. Each student must submit their
-homework, projects, and labs independently and elaborate on who they
-collaborated with and how. You may get general help from other students, but
-you may not discuss exact code or specific solutions. Exams and quizzes must
-be done independently.
+You are encouraged to get help from me, the TAs, the Internet, or other
+students, but you **may not copy code directly from somewhere else**. Each
+student must submit their homework, projects, and labs independently and
+elaborate on who they collaborated with and how. You may get general help
+from other students, but you may not discuss exact code or specific
+solutions. Exams and quizzes must be done independently.
 
 The course staff will use plagiarism detection tools when grading assignments.
 The first time an assignment is found to be plagiarized, the assignment grade
@@ -95,7 +93,8 @@ actions up to and including a grade of “F” for the course and a letter of
 fact in the student’s record.
 
 If you are tempted to copy code from anywhere, please reach out to me first.
-We'll work something out! Also remember we provide many ways to [get help](#ways-to-get-help).
+We'll figure something out! Also remember all the many ways to [get help]
+(#ways-to-get-help).
 
 ### Technology
 
@@ -153,7 +152,7 @@ attention, whether it's asking a question or answering one.
 * Search the Internet (NOT for the exact answer, just to get you unstuck)
 * Come to office hours
 * Look at past assignments
-* Look at the [course materials](/schedule)
+* Look at the [course materials](/course-materials)
 * Ask on [EdStem](https://edstem.org/us/courses/60560/discussion/)
 * Come to office hours
 * Did I mention you should come to office hours?
