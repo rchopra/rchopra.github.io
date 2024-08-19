@@ -158,7 +158,7 @@ attention, whether it's asking a question or answering one.
 * Did I mention you should come to office hours?
 
 If for whatever reason you still feel uncomfortable asking a question, I've
-set up an [anonymous form](https://forms.gle/6BkUQQczLJMSJ8rB7). You can also
+set up an [anonymous form](https://forms.gle/3Xp4TnqV8D5n2qqa9). You can also
 provide feedback to the course staff via this form. I'll monitor it
 throughout the semester and will cover answers to any questions in class.
 
