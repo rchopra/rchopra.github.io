@@ -5,15 +5,16 @@ title: "Week 1: Intro"
 
 **Lec 01**{: .label .label-blue }
 : [Course Intro](https://edstem.org/us/courses/60560/lessons/113959){:target="_blank"}
-  : [slides posted after class]
+  : [[slides](https://drive.google.com/file/d/1QWfmFOGZrG3M8t-h7H8LZAD9uk-YaOJp/view?usp=sharing){:target="_blank"}\]
 
 **HW 1**{: .label .label-red }
 : Survey & Office Hours
   : Due Aug 29 11:59 pm ET
 
 **Lec 02**{: .label .label-blue }
-: What is Computer Science?
-  : [[zoom](https://morganstate.zoom.us/j/91916688161), slides posted after class]
+: [What is Computer Science?](https://edstem.org/us/courses/60560/lessons/113961){:target="_blank"}
+  : [[zoom](https://morganstate.zoom.us/j/91916688161), [slides](https://drive.google.com/file/d/1Qi5vlKLB5DHIHbtYOIBByqLrKfiPgndY/view?usp=sharing){:target="_blank"}\]
+}
 
 **Lec 03**{: .label .label-blue }
 : Intro to EdStem
