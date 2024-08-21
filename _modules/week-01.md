@@ -14,11 +14,10 @@ title: "Week 1: Intro"
 **Lec 02**{: .label .label-blue }
 : [What is Computer Science?](https://edstem.org/us/courses/60560/lessons/113961){:target="_blank"}
   : [[zoom](https://morganstate.zoom.us/j/91916688161), [slides](https://drive.google.com/file/d/1Qi5vlKLB5DHIHbtYOIBByqLrKfiPgndY/view?usp=sharing){:target="_blank"}\]
-}
 
 **Lec 03**{: .label .label-blue }
-: Intro to EdStem
-  : [slides posted after class]
+: [Intro to EdStem](https://edstem.org/us/courses/60560/lessons/113963){:target="_blank"}
+  : [[slides](https://drive.google.com/file/d/1Rn7zFqC7ykzeO0viMAIIRNBkFULucDvY/view?usp=sharing){:target="_blank"}\]
 
 **Lab 01**{: .label .label-yellow }
 : GIR Pre-Assessment
