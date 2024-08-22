@@ -20,5 +20,5 @@ title: "Week 1: Intro"
   : [[slides](https://drive.google.com/file/d/1Rn7zFqC7ykzeO0viMAIIRNBkFULucDvY/view?usp=sharing){:target="_blank"}\]
 
 **Lab 01**{: .label .label-yellow }
-: GIR Pre-Assessment
-  : [slides posted after class]
+: [GIR Pre-Assessment](https://edstem.org/us/courses/60560/lessons/113980){:target="_blank"}
+  : [[slides](https://drive.google.com/file/d/16tzIgml8-BkgFYynoASyMpgStGsN9mys/view?usp=sharing){:target="_blank"}\]
