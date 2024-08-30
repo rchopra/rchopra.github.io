@@ -20,5 +20,5 @@ title: "Week 2: Computational Thinking"
   : [[slides](https://drive.google.com/file/d/175cPgyBLHCfdJj-6c33V3fG2R1OTiCif/view?usp=sharing){:target="blank"}\]
 
 **Lab 02**{: .label .label-yellow }
-: Algorithms
-  : [slides]
+: [Algorithms](https://edstem.org/us/courses/60560/lessons/115937){:target="blank"}
+  : [[slides](https://drive.google.com/file/d/1Oa8gL-YRI8muHEsTYUwCjwSOsZ1ATx1s/view?usp=sharing){:target="blank"}\]
