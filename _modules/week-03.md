@@ -8,7 +8,7 @@ title: "Week 3: Intro to Python"
   : [[zoom](https://morganstate.zoom.us/j/91916688161), [slides](https://drive.google.com/file/d/18U97w41XI1XoX_7icULuhxAQh10fDenW/view?usp=sharing){:target="blank"}\]
 
 **HW 3**{: .label .label-red }
-: Operators and Variables
+: [Operators and Variables](https://edstem.org/us/courses/60560/lessons/115940){:target="blank"}
   : Due Sep 9 11:59 pm ET
 
 **Lec 08**{: .label .label-blue }
