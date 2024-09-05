@@ -12,9 +12,9 @@ title: "Week 3: Intro to Python"
   : Due Sep 9 11:59 pm ET
 
 **Lec 08**{: .label .label-blue }
-: [Variables](https://edstem.org/us/courses/60560/lessons/115939){:target="blank"}
+: [Built-in Functions and Variables](https://edstem.org/us/courses/60560/lessons/115939){:target="blank"}
   : [[slides](https://drive.google.com/file/d/1bLJCFNI7PEdw9SAxTfBcGCVG4JqL4wnf/view?usp=sharing){:target="blank"}\]
 
 **Lab 03**{: .label .label-yellow }
-: Types and Variables
-  : slides
+: [Types and Variables](https://edstem.org/us/courses/60560/lessons/115936){:target="blank"}
+  : [[slides](https://drive.google.com/file/d/1CMDK5FQ28tyMc8c9aNtt50x0K9sDg746/view?usp=sharing){:target="blank"}\]
