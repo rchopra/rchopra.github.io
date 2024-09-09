@@ -3,11 +3,12 @@ title: "Week 4: More Python"
 ---
 
 **Lec 9**{: .label .label-blue }
-: More Variables
-  : slides
+: [More Variables](https://edstem.org/us/courses/60560/lessons/116347){:target="blank"}
+  : [[slides](https://drive.google.com/file/d/1ehnIiTyzbfo-C5BIKQUSi4ZHJxyrOYNR/view?usp=sharing){:target="blank"}\]
+}
 
-**HW 3**{: .label .label-red }
-: Variables and (I/O)
+**HW 4**{: .label .label-red }
+: [Variables and (I/O)](https://edstem.org/us/courses/60560/lessons/116347)
   : Due Sep 17 11:59 pm ET
 
 **Lec 10**{: .label .label-blue }
