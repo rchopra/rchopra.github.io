@@ -15,9 +15,9 @@ title: "Week 4: More Python"
   : [[zoom](https://morganstate.zoom.us/j/91916688161), [slides](https://drive.google.com/file/d/1DuDAjSWZhBqo7qwEBh1VVCafDF6B1Cz2/view?usp=sharing){:target="blank"}\]
 
 **Lec 11**{: .label .label-blue }
-: String Formatting
-  : slides
+: [String Formatting](https://edstem.org/us/courses/60560/lessons/117307){:target="blank"}
+  : [[slides](https://drive.google.com/file/d/1XmeA2o0zVtO75iSo6zms7cQsnkc0Nudg/view?usp=sharing){:target="blank"}\]
 
 **Lab 4**{: .label .label-yellow }
-: Grade Calculator
-  : slides
+: [Grade Calculator](https://edstem.org/us/courses/60560/lessons/116225/slides/651999){:target="blank"}
+  : [[slides](https://drive.google.com/file/d/15SXwRSs5zry0zHaaXBQVK0dtoQMzV95t/view?usp=sharing){:target="blank"}\]
