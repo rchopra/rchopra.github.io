@@ -135,6 +135,6 @@ print("Hello, " + name + "!")
 ## **Practice Problems**
 1. Write a Python program to calculate the area of a rectangle. Prompt the user for length and width.
 2. Write a program that converts a temperature in Celsius to Fahrenheit using the formula $$F = C  \times 1.8 + 32$$. Have the user input a temperature in Celsius.
-3. Write a program that prompst the user for a number of minutes and displays that duration in hours and minutes. For example, 135 minutes would be 2 hours and 15 minutes.
+3. Write a program that prompts the user for a number of minutes and displays that duration in hours and minutes. For example, 135 minutes would be 2 hours and 15 minutes.
 
 ---
