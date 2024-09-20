@@ -26,7 +26,7 @@ An **expression** in Python is a combination of values, variables, operators, an
 - `x - 2` (assuming `x = 10`) → `8`
 - `"Hello" + " World"` → `"Hello World"`
 
-### **Key Operators in Python**:
+### **Key Operators in Python**
 - **Arithmetic Operators**:
   - `+` (Addition): `5 + 3` → `8`
   - `-` (Subtraction): `10 - 2` → `8`
@@ -60,7 +60,7 @@ When evluating a complicated expression, work from the **innermost parentheses o
 ## **Variables**
 A **variable** is a name that refers to a value stored in memory. Variables allow us to store and manipulate data. You can assign values to variables using the `=` operator.
 
-### **Declaring and Assigning Variables**:
+### **Declaring and Assigning Variables**
 ```python
 x = 10
 y = 20
@@ -132,7 +132,7 @@ print("Hello, " + name + "!")
 
 ---
 
-## **Practice Problems**:
+## **Practice Problems**
 1. Write a Python program to calculate the area of a rectangle. Prompt the user for length and width.
 2. Write a program that converts a temperature in Celsius to Fahrenheit using the formula $$F = C  \times 1.8 + 32$$. Have the user input a temperature in Celsius.
 3. Write a program that prompst the user for a number of minutes and displays that duration in hours and minutes. For example, 135 minutes would be 2 hours and 15 minutes.
