@@ -171,18 +171,20 @@ opposed to a few high-stakes exams or projects.
 
 ### Late policy
 
-{: .highlight }
-Assignment due dates will be visible on the course website and on EdStem. All assignments will be due at 11:59 p.m. ET on the due date.
-
-A lot of the content we will cover builds upon previous content. As such, you
-need to make sure you're keeping up with the course, including turning work in
-on time. You have 5 late assignments that you can use throughout the semester
-for a 15% penalty. I will keep track of these. No work will be accepted more
-than 1 week late because I want to make sure that you understand the topics
-we've covered before moving on.
+Assignment due dates will be visible on the course website and
+on EdStem. All assignments will be due at 11:59 p.m. ET on the due date. A
+lot of the content we will cover builds upon previous content. As such, you
+need to make sure you're keeping up with the course, including turning work
+in on time. Each day an assignment is turned in late will result in a 10%
+penalty. **No work will be accepted more than three days late** because I
+want to make sure that you understand the topics we've covered before moving
+on.
 
 {: .warning }
-This means that any homework/project assignment that is turned in late will only be eligible for 85% credit.
+This means that any homework/project assignment that is turned in late will only be subject to the following adjustments:
+- 1 Day Late: -10%
+- 2 Days Late: -20%
+- 3 Days Late: -30%
 
 ### Labs
 

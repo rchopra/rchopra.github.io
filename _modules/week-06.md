@@ -4,11 +4,11 @@ title: "Week 6: Conditionals Continued"
 
 **Lec 15**{: .label .label-blue }
 : [Logical Operators](https://edstem.org/us/courses/60560/lessons/118776/slides/660112){:target="blank"}
-  : slides
+  : [[slides](https://drive.google.com/file/d/19v4ReDjcSAQVLmxXCIPD8am8eGKu53Fm/view?usp=sharing){:target="blank"}\]
 
 **Lab 5**{: .label .label-yellow }
 : Math Checker
-  : [[zoom](https://morganstate.zoom.us/j/91916688161), slides\]
+  : [[zoom](https://morganstate.zoom.us/j/91916688161)\]
 
 **Lec 16**{: .label .label-blue }
 : Complex Conditionals
