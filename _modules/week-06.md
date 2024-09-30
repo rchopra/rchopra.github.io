@@ -7,17 +7,17 @@ title: "Week 6: Conditionals Continued"
   : [[slides](https://drive.google.com/file/d/19v4ReDjcSAQVLmxXCIPD8am8eGKu53Fm/view?usp=sharing){:target="blank"}\]
 
 **Lab 5**{: .label .label-yellow }
-: Math Checker
+: [Math Checker](https://edstem.org/us/courses/60560/lessons/118827){:target="blank"}
   : [[zoom](https://morganstate.zoom.us/j/91916688161)\]
 
 **Lec 16**{: .label .label-blue }
-: Complex Conditionals
-  : [[zoom](https://morganstate.zoom.us/j/91916688161), [slides](https://drive.google.com/file/d/1K2QOeXEVILuEj-UmikfUw91SCgXR0UWF/view?usp=sharing){:target="blank"}\]
+: [Complex Conditionals](https://edstem.org/us/courses/60560/lessons/118823){:target="blank"}
+  : [[slides](https://drive.google.com/file/d/1zQaLvqvAcjfhSVRGk4ULanAMIvA8c1kJ/view?usp=sharing){:target="blank"}\]
 
 **Lec 17**{: .label .label-blue }
-: While Loops
-  : slides
+: [While Loops](https://edstem.org/us/courses/60560/lessons/119463){:target="blank"}
+  : [[slides](https://drive.google.com/file/d/1lHPV7EV45gh59aJk23pyv6lh4dO91BjY/view?usp=sharing){:target="blank"}\]
 
 **HW 6**{: .label .label-red }
-: While Loops
-  : Due Oct 2 11:59 pm ET
+: [While Loops](https://edstem.org/us/courses/60560/lessons/119274){:target="blank"}
+  : Due Oct 4 11:59 pm ET
