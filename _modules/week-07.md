@@ -4,7 +4,7 @@ title: "Week 7: While Loops"
 
 **Lec 18**{: .label .label-blue }
 : [While Loops Continued](https://edstem.org/us/courses/60560/lessons/119966){:target="blank"}
-  : [slides]
+  : [[slides](https://drive.google.com/file/d/1UJLFfLEzIFlcHxbeKcHnV4DCc_Mzacm-/view?usp=sharing){:target="blank"}\]
 
 **Lab 6**{: .label .label-yellow }
 : Playing Games
