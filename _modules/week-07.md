@@ -15,9 +15,5 @@ title: "Week 7: While Loops"
   : [[slides](https://drive.google.com/file/d/1obuyD_Xwg2L4SA6HRgCQonvuVwYupuIM/view?usp=sharing){:target="blank"}\]
 
 **Lec 20**{: .label .label-blue }
-: While Loops Review
-  : [slides]
-
-**HW 7**{: .label .label-red }
-: More While Loops
-  : Due Oct 11 11:59 pm ET
+: [While Loops Review](https://edstem.org/us/courses/60560/lessons/120190)
+  : [[slides](https://drive.google.com/file/d/1ij-BClH9N3A00e_YDTOgfJ4ShA4Bsiwu/view?usp=sharing){:target="blank"}\]
