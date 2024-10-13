@@ -11,10 +11,10 @@ title: "Week 8: Functions"
   : Due Oct 14 11:59 pm ET
 
 **Lec 22**{: .label .label-blue }
-: More Functions
-  : [slides]
+: [More Functions](https://edstem.org/us/courses/60560/lessons/120395)
+  : [[slides](https://drive.google.com/file/d/1LygFgo3oHHduvFl7SaZmfGaknKSZ7rVj/view?usp=sharing){:target="blank"}\]
 
 **Lab 7**{: .label .label-yellow }
-: Fun Functions
-  : [slides]
+: [Fun Functions](https://edstem.org/us/courses/60560/lessons/120330)
+  : 
 
