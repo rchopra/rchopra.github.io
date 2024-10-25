@@ -226,15 +226,6 @@ of October 14 and cover everything that we've done through that point. The
 final exam will cover everything after the midterm up until the end of the
 course.
 
-#### Test Corrections
-
-Test corrections will be offered for the midterm. After receiving your graded
-midterm, you may re-do the problems you got wrong for up to half the points
-you missed. You’re encouraged to get help from me or the TAs while working on
-test corrections, but you may not ask other students for help. The due date
-for test corrections will be one week after graded midterms are returned to
-students. The course website will be updated to reflect this date.
-
 ### Grading Breakdown
 
 Final grades for the course will be calculated based on the weights below.
