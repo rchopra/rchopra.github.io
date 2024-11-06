@@ -12,7 +12,7 @@ title: "Week 12: 2D Lists"
 
 **Lec 33**{: .label .label-blue }
 : [Working with 2D Lists](https://edstem.org/us/courses/60560/lessons/122395){:target="blank"}
-  : [slides]
+  : [[slides](https://drive.google.com/file/d/1qeiqW_4EqZoBk59aucBP5RyQv4_APtOt/view?usp=sharing){:target="blank"}\]
 
 **Lab 10**{: .label .label-yellow }
 : [Minesweeper](https://edstem.org/us/courses/60560/lessons/121623){:target="blank"}
