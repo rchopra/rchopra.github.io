@@ -6,7 +6,7 @@ title: "Week 11: Lists"
 : [List Operations](https://edstem.org/us/courses/60560/lessons/121559/){:target="blank"}
   : [[slides](https://drive.google.com/file/d/1duAx2rsBjqZd_4ekKwsVlowhGnAuzB55/view?usp=sharing){:target="blank"}\]
 
-**Lab 8**{: .label .label-yellow }
+**Lab 9**{: .label .label-yellow }
 : [Music Playlist](https://edstem.org/us/courses/60560/lessons/121131){:target="blank"}
   : [[zoom](https://morganstate.zoom.us/j/91916688161){:target="blank"}\]
 
