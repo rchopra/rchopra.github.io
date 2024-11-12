@@ -8,7 +8,7 @@ title: "Week 13: Collections"
 
 **Lec 35**{: .label .label-blue }
 : [Dictionaries](https://edstem.org/us/courses/60560/lessons/122504){:target="blank"}
-  : [[zoom](https://morganstate.zoom.us/j/91916688161){:target="blank"}\], [slides]
+  : [[zoom](https://morganstate.zoom.us/j/91916688161){:target="blank"}\], [[slides](https://drive.google.com/file/d/1Rcy3yqVOOQk3k5WIAXYT6aypBtYemm6q/view?usp=sharing){:target="blank"}\]
 
 **Lec 36**{: .label .label-blue }
 : [Dictionary Operations](https://edstem.org/us/courses/60560/lessons/122915){:target="blank"}
