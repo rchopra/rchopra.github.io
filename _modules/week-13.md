@@ -12,7 +12,7 @@ title: "Week 13: Collections"
 
 **Lec 36**{: .label .label-blue }
 : [Dictionary Operations](https://edstem.org/us/courses/60560/lessons/122915){:target="blank"}
-  : [slides]
+  : [[slides](https://drive.google.com/file/d/1JhuyoDVwlejSn0bvViqYICRwlo1QqaGM/view?usp=sharing){:target="blank"}\]
 
 **Lab 11**{: .label .label-yellow }
 : [Dictionaries](https://edstem.org/us/courses/60560/lessons/121625){:target="blank"}
